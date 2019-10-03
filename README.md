@@ -25,7 +25,7 @@ TNT点燃后下降速度接近于单机[如果30个TNT同时爆炸会有5秒卡�
 
 支持铁毡
 
-支持红石[需扩展]
+支持红石
 
 支持地狱
 
@@ -62,6 +62,23 @@ GenisysPro插件[兼容75％]
 SteadFast LBSG插件[√]
 
 Nebzz插件[兼容少部分]
+
+
+关于FillAmeaPixel-Core GenisysPro优化核心的红石问题[Redstone ]
+因为这是一个测试功能   我们将逐渐完善红石功能
+在FillAmeaPixel*Core v1.0.6中 支持红石火把点燃红石 
+但是他有更多的Bug
+*所以有什么漏洞请及时反馈给FillAmeaPixel团队  
+我们将会龟速修复
+
+
+
+关于末地
+后期将会加入末地功能  让PocketMine-PM重新走上辉煌道路
+
+
+
+
 
 创建FillAmeaPixel.phar文件要构建FillAmeapixel服务器phar文件，请按照以下说明进行操作。
 
